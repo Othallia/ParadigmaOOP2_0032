@@ -15,6 +15,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Abstraksi", "Abstraksi\Abst
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Multiwaris", "Multiwaris\Multiwaris.vcxproj", "{0120350D-47BB-447A-AE9E-6F5F88E78E66}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "solveMultiwaris", "solveMultiwaris\solveMultiwaris.vcxproj", "{3D14A46E-3CA0-4B41-8AF0-5660E8EE8CEF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -71,6 +73,14 @@ Global
 		{0120350D-47BB-447A-AE9E-6F5F88E78E66}.Release|x64.Build.0 = Release|x64
 		{0120350D-47BB-447A-AE9E-6F5F88E78E66}.Release|x86.ActiveCfg = Release|Win32
 		{0120350D-47BB-447A-AE9E-6F5F88E78E66}.Release|x86.Build.0 = Release|Win32
+		{3D14A46E-3CA0-4B41-8AF0-5660E8EE8CEF}.Debug|x64.ActiveCfg = Debug|x64
+		{3D14A46E-3CA0-4B41-8AF0-5660E8EE8CEF}.Debug|x64.Build.0 = Debug|x64
+		{3D14A46E-3CA0-4B41-8AF0-5660E8EE8CEF}.Debug|x86.ActiveCfg = Debug|Win32
+		{3D14A46E-3CA0-4B41-8AF0-5660E8EE8CEF}.Debug|x86.Build.0 = Debug|Win32
+		{3D14A46E-3CA0-4B41-8AF0-5660E8EE8CEF}.Release|x64.ActiveCfg = Release|x64
+		{3D14A46E-3CA0-4B41-8AF0-5660E8EE8CEF}.Release|x64.Build.0 = Release|x64
+		{3D14A46E-3CA0-4B41-8AF0-5660E8EE8CEF}.Release|x86.ActiveCfg = Release|Win32
+		{3D14A46E-3CA0-4B41-8AF0-5660E8EE8CEF}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
